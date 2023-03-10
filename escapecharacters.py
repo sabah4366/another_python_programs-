@@ -1,0 +1,6 @@
+print("i dont like girls but \"girls\" likes me")
+print("i don\'t likes girls but girls likes me")
+print("i dont like girls but\b girls likes me")
+print("i dont like girls but girls\n likes me")
+print("i dont like girls but \r girls likes me")
+print("i dont like girls but girls\tlikes me")

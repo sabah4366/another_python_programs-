@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="jdk" jdkName="Python 3.10" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="luminar1" />
+    <orderEntry type="module" module-name="project1 " />
+    <orderEntry type="module" module-name="exampleprgrm" />
+    <orderEntry type="module" module-name="tasks" />
+    <orderEntry type="module" module-name="exercises" />
+    <orderEntry type="module" module-name="some_special_function" />
+    <orderEntry type="module" module-name="lumnr_assgnmnts" />
+    <orderEntry type="module" module-name="DS" />
+    <orderEntry type="module" module-name="additional_stdying" />
+    <orderEntry type="module" module-name="Djangoaugworks" />
+  </component>
+</module>

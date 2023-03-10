@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../DS/.idea/DS.iml" filepath="$PROJECT_DIR$/../DS/.idea/DS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Djangoaugworks/.idea/Djangoaugworks.iml" filepath="$PROJECT_DIR$/../Djangoaugworks/.idea/Djangoaugworks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../additional_stdying/.idea/additional_stdying.iml" filepath="$PROJECT_DIR$/../additional_stdying/.idea/additional_stdying.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../exampleprgrm/.idea/exampleprgrm.iml" filepath="$PROJECT_DIR$/../exampleprgrm/.idea/exampleprgrm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../exercises/.idea/exercises.iml" filepath="$PROJECT_DIR$/../exercises/.idea/exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../luminar1/.idea/luminar1.iml" filepath="$PROJECT_DIR$/../luminar1/.idea/luminar1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lumnr_assgnmnts/.idea/lumnr_assgnmnts.iml" filepath="$PROJECT_DIR$/../lumnr_assgnmnts/.idea/lumnr_assgnmnts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../project1 /.idea/project1 .iml" filepath="$PROJECT_DIR$/../project1 /.idea/project1 .iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pythonProject.iml" filepath="$PROJECT_DIR$/.idea/pythonProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../some_special_function/.idea/some_special_function.iml" filepath="$PROJECT_DIR$/../some_special_function/.idea/some_special_function.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tasks/.idea/tasks.iml" filepath="$PROJECT_DIR$/../tasks/.idea/tasks.iml" />
+    </modules>
+  </component>
+</project>
