@@ -1,0 +1,9 @@
+[
+  {"id": 1,"name": "walkingcrab","category": "toy","price": 440,"qty": 2},
+  {"id": 2,"name": "popit","category": "toy","price": 240,"qty": 200},
+  {"id": 3,"name": "samsunga52","category": "mobile","price": 34440,"qty": 24},
+  {"id": 4,"name": "oppa70","category": "mobile","price": 45440,"qty": 52},
+  {"id": 5,"name": "miledtv","category": "electronics","price": 23440,"qty": 72},
+  {"id": 6,"name": "sonyled","category": "electronics","price": 54440,"qty": 12}
+
+]
